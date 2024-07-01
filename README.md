@@ -54,7 +54,7 @@ This project uses Variable Length Subnet Masking (VLSM) to efficiently allocate 
 ### Getting Started
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/network-subnetting-vlsm-dhcp-ospf.git
+   git clone https://github.com/your-username/network-subnetting-vlsm-dhcp-ospf.git](https://github.com/thelaibaasif/Network-Subnetting-with-VLSM-DHCP-and-OSPF-Routing/tree/main)
     ```
 2. Follow the steps in the `Implementation Details` section to set up the network.
 3. Verify the network setup by testing IP allocation and routing between subnets.
